@@ -1,4 +1,7 @@
 <?php 
+
+require_once("conexionDB.php");
+
 $items = [
     [
         "nombre" => "Banana",
